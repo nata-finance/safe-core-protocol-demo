@@ -69,5 +69,9 @@
     "scripts",
     "test",
     "artifacts"
-  ]
+  ],
+  "volta": {
+    "node": "16.20.2",
+    "yarn": "1.22.19"
+  }
 }
